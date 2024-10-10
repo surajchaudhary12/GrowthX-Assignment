@@ -29,5 +29,5 @@ This is a backend system for an assignment submission portal that allows users t
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/surajchaudhary12/assignment-portal.git
-   cd assignment-portal
+   git clone [https://github.com/surajchaudhary12/GrowthX-Assignment]
+   cd GrowthX-Assignment
